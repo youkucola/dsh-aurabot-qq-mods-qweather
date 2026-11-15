@@ -1,0 +1,15 @@
+{
+  "id": "qweather",
+  "name": "和风天气查询",
+  "description": "提供和风天气实时天气模型工具 qweather_now，不注册任何聊天命令。",
+  "author": "youkucola",
+  "license": "MIT",
+  "category": "tool",
+  "version": "1.0.0",
+  "api": 1,
+  "minPluginVersion": "1.2.0",
+  "requires": [],
+  "capabilities": ["network"],
+  "platforms": ["qq"],
+  "tags": ["天气", "和风天气", "实时天气", "查询"]
+}
